@@ -10,7 +10,7 @@ main:
     url: /htb
   - title: "Web Security"
     url: /websec
-  - title: "coding"
+  - title: "Coding"
     url: /coding
   - title: "All Categories"
     url: /categories
