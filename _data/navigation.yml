@@ -8,6 +8,10 @@ main:
     url: /binexp
   - title: "HTB Writeups"
     url: /htb
+  - title: "Web Security"
+    url: /websec
+  - title: "coding"
+    url: /coding
   - title: "All Categories"
     url: /categories
   - title: "Tags"
